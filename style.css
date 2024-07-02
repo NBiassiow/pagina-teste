@@ -29,8 +29,8 @@ body{
 .banner img{
     max-width: 90%;
     height: auto;
-    border-radius: 10px;
-    box-shadow: 0 0 10px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px;
 }
 
 .atores{
@@ -44,8 +44,24 @@ body{
 }
 
 .ator img{
-    width: 160px;
+    width: 170px;
     height: 200px;
     object-fit: cover;
-    border-radius: 10px;
+    border-radius: 20px;
+}
+
+.sinopse{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 30px;
+}
+
+.site{
+    display: flex;
+    align-items: center;
+    font-size: 1.2px;
+}
+
+.site img{
+    width: 50px;
+    height: auto;
 }
